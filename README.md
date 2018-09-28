@@ -34,7 +34,7 @@ Double click on the "simple genome view" to unzoom.
 
 ## Implementation:
 
-Two widgets (`GenomeOverview.js` and `SimpleGenomeView.js`) are implemented, each with a primitive plugin design.
+Two widgets (`GenomeOverviewer.js` and `SimpleGenomeViewer.js`) are implemented, each with a primitive plugin design.
 
 The two widgets are written in vanilla JavaScript ES6.
 
@@ -48,4 +48,4 @@ The two widgets are written in vanilla JavaScript ES6.
 
 ## Liscence
 
-LGPLv3 for `GenomeOverview.js`, `SimpleGenomeView.js` and all related plugins.
+LGPLv3 for `GenomeOverviewer.js`, `SimpleGenomeViewer.js` and all related plugins.
